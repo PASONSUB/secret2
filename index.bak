@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>secret2</title>
+
+  <style>
+
+    .inf{
+      text-align: center;
+      color: aqua;
+    }
+    .tip{
+      padding-top: 450px;
+      color:#fff;
+    }
+  </style>
+
+</head>
+<body>
+  
+  <h1>頑張れ！</h1>
+  <p>ここはもう友愛要素ないけどね、一番難しい最後の問題
+    <br>(答えはkとする！)
+    <br>
+    <br>ヒントは#ffffff
+
+
+    <div class="inf">
+  <p>p = 71
+    <br>q = 73
+    <br>N = 5183
+    <br>e = 31
+    <br>d = ?
+    <br>
+    <br>Answer is (enCrypto)
+    <br>
+    <br>4800
+    <br>
+    <br>171
+    <br>
+    <br>1860
+    <br>
+    <br>138
+    <br>
+    <br>3916
+    <br>
+    <br>1924
+    <br>
+    <br>138
+    <br>
+    <br>2445
+
+
+
+
+  </p>
+</div>
+
+  <div class="tip">
+  <p>ヒント！
+    <br>・変数文字から暗号化プロセスを特定
+    <br>・dを求める
+    <br>dがわかったら複合式に代入してmを求める
+    <br>ASCII
+    <br>ROT13
+    <br>
+    <br>username = k
+    <br>directory = secret3
+
+
+  </div>
+  </p>
+
+</body>
+</html>
