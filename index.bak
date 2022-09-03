@@ -59,13 +59,12 @@
   </p>
 </div>
 
-  <div class="tip">
+<div class="tip">
   <p>ヒント！
-    <br>・変数文字から暗号化プロセスを特定
-    <br>・dを求める
-    <br>dがわかったら複合式に代入してmを求める
-    <br>ASCII
-    <br>ROT13
+    <br>・元々pは記述されていたが「?」に変更された
+    <br>・pがわかったらdを求められる
+    <br>・Aから始まるコードで数字を文字に戻す
+    <br>・最後にROT13
     <br>
     <br>username = k
     <br>directory = secret3
