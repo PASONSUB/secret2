@@ -29,10 +29,10 @@
 
 
     <div class="inf">
-  <p>p = 40543
+  <p>p = ?
     <br>q = 13313
-    <br>N = 539748959
-    <br>e = 65537
+    <br>N = ?
+    <br>e = 13
     <br>d = ?
     <br>
     <br>Answer is (enCrypto)
